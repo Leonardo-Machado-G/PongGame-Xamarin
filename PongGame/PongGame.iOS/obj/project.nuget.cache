@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0raew+YfTwys67E8Q+vqV4VYC1Xvn6QXntRSaTGD7riP5Da7ThBWCcSZv0t6XPdwPL0cEzT+Q4SInsZQ4BeUwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Leo\\GitHub\\Subir\\Pong files\\PongGame\\PongGame\\PongGame.iOS\\PongGame.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leosl\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\leosl\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\leosl\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

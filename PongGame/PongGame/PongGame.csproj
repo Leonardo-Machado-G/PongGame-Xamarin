@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Fonts\ARCADE_R.TTF" />
+    <None Remove="Resources\Fonts\colorbasic.ttf" />
+    <None Remove="Resources\Fonts\font.ttf" />
+    <None Remove="Resources\Fonts\prstart.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Fonts\ARCADE_R.TTF" />
+    <EmbeddedResource Include="Resources\Fonts\colorbasic.ttf" />
+    <EmbeddedResource Include="Resources\Fonts\font.ttf" />
+    <EmbeddedResource Include="Resources\Fonts\prstart.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
+  </ItemGroup>
+</Project>

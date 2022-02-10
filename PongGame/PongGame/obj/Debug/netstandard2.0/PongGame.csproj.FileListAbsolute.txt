@@ -1,0 +1,16 @@
+C:\Users\leosl\source\repos\PongGame\PongGame\PongGame\bin\Debug\netstandard2.0\PongGame.deps.json
+C:\Users\leosl\source\repos\PongGame\PongGame\PongGame\bin\Debug\netstandard2.0\PongGame.dll
+C:\Users\leosl\source\repos\PongGame\PongGame\PongGame\bin\Debug\netstandard2.0\ref\PongGame.dll
+C:\Users\leosl\source\repos\PongGame\PongGame\PongGame\bin\Debug\netstandard2.0\PongGame.pdb
+C:\Users\leosl\source\repos\PongGame\PongGame\PongGame\obj\Debug\netstandard2.0\PongGame.csproj.AssemblyReference.cache
+C:\Users\leosl\source\repos\PongGame\PongGame\PongGame\obj\Debug\netstandard2.0\PongGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosl\source\repos\PongGame\PongGame\PongGame\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\leosl\source\repos\PongGame\PongGame\PongGame\obj\Debug\netstandard2.0\PongGame.AssemblyInfoInputs.cache
+C:\Users\leosl\source\repos\PongGame\PongGame\PongGame\obj\Debug\netstandard2.0\PongGame.AssemblyInfo.cs
+C:\Users\leosl\source\repos\PongGame\PongGame\PongGame\obj\Debug\netstandard2.0\PongGame.csproj.CoreCompileInputs.cache
+C:\Users\leosl\source\repos\PongGame\PongGame\PongGame\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\leosl\source\repos\PongGame\PongGame\PongGame\obj\Debug\netstandard2.0\PongGame.dll
+C:\Users\leosl\source\repos\PongGame\PongGame\PongGame\obj\Debug\netstandard2.0\ref\PongGame.dll
+C:\Users\leosl\source\repos\PongGame\PongGame\PongGame\obj\Debug\netstandard2.0\PongGame.pdb
+C:\Users\leosl\source\repos\PongGame\PongGame\PongGame\obj\Debug\netstandard2.0\Models\Class\CapaPresentacion\MainPage.xaml.g.cs
+C:\Users\leosl\source\repos\PongGame\PongGame\PongGame\obj\Debug\netstandard2.0\Models\Class\CapaPresentacion\OptionsPage.xaml.g.cs

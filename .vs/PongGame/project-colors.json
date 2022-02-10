@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "805e8d50-a782-4986-b0d5-9b8b49badaab": {
+      "ProjectGuid": "805e8d50-a782-4986-b0d5-9b8b49badaab",
+      "DisplayName": "PongGame.Android",
+      "ColorIndex": 0
+    },
+    "b8dbceb0-5d61-4c42-8629-5639b1749985": {
+      "ProjectGuid": "b8dbceb0-5d61-4c42-8629-5639b1749985",
+      "DisplayName": "PongGame",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

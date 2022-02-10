@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PongGame.App">
+    
+    <!--Aqui podemos definir recursos globales que seran utilizados en toda la aplicacion-->
+    
+<Application.Resources>
+
+        <ResourceDictionary>
+
+            <Style x:Key="buttonStyle" TargetType="Button">
+
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="CenterAndExpand" />
+                <Setter Property="BorderColor" Value="White" />
+                <Setter Property="BackgroundColor" Value="Black"/>
+                <Setter Property="BorderRadius" Value="25" />
+                <Setter Property="BorderWidth" Value="5" />
+                <Setter Property="Padding" Value="20" />
+                <Setter Property="WidthRequest" Value="200" />
+                <Setter Property="FontSize" Value="20"/>
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="FontFamily" Value="prstart" />
+
+            </Style>
+
+            <Style x:Key="labelMenu" TargetType="Label">
+
+                <Setter Property="FontSize" Value="60"/>
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="CenterAndExpand" />
+                <Setter Property="TextColor" Value="Black" />
+                <Setter Property="FontFamily" Value="font"/>
+
+            </Style>
+
+            <Style x:Key="labelOptions" TargetType="Label">
+
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="FontSize" Value="17"/>
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="FontFamily" Value="ARCADE_R"/>
+                <Setter Property="HorizontalOptions" Value="Start" />
+                <Setter Property="Margin" Value="20" />
+
+            </Style>
+
+            <Style x:Key="imageMenu" TargetType="Image">
+
+                <Setter Property="HorizontalOptions" Value="CenterAndExpand" />
+                <Setter Property="VerticalOptions" Value="CenterAndExpand" />
+                <Setter Property="Scale" Value="1.25"/>
+
+            </Style>
+
+            <Style x:Key="frameBackground" TargetType="Frame">
+
+                <Setter Property="BackgroundColor" Value="Black" />
+                <Setter Property="BorderColor" Value="White" />
+                <Setter Property="HasShadow" Value="true" />
+                <Setter Property="CornerRadius" Value="20" />
+
+            </Style>
+
+            <Style x:Key="buttonStyleHandicap" TargetType="Button">
+
+                <Setter Property="HorizontalOptions" Value="Start" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="BorderColor" Value="Azure" />
+                <Setter Property="BackgroundColor" Value="White"/>
+                <Setter Property="BorderRadius" Value="10" />
+                <Setter Property="BorderWidth" Value="5" />
+                <Setter Property="Padding" Value="10" />
+                <Setter Property="WidthRequest" Value="60" />
+                <Setter Property="FontSize" Value="10"/>
+                <Setter Property="TextColor" Value="Black" />
+                <Setter Property="FontFamily" Value="font" />
+                <Setter Property="Margin" Value="15" />
+
+            </Style>
+
+        </ResourceDictionary>
+
+    </Application.Resources>
+
+</Application>
